@@ -47,6 +47,7 @@ project-root/
 └── package.json  
 
 
+
 #✅ Códigos de resposta da API (status HTTP):
 
 Código	Nome	O que significa?
@@ -57,6 +58,7 @@ Código	Nome	O que significa?
 400	Bad Request	Algo de errado veio na sua requisição 🙈
 401	Unauthorized	Faltou autenticação! Faça login primeiro 🔒
 404	Not Found	O que você pediu não existe 😢
+
 
 
 #🏃‍♂️ Como rodar o projeto:
@@ -74,6 +76,7 @@ bash
 Copiar
 Editar
 npm run dev
+
 
 
 #🐘 Configurando o PostgreSQL com Prisma
@@ -142,6 +145,7 @@ Editar
 import { PrismaClient } from '@prisma/client';
 const prisma = new PrismaClient();
 export default prisma;
+
 
 
 Criando um usuário:
