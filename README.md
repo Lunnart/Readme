@@ -1,12 +1,12 @@
-🚀 Projeto API REST com Node.js, Express e PostgreSQL (PgAdmin 4)
+##🚀 Projeto API REST com Node.js, Express e PostgreSQL (PgAdmin 4)
 
 
-🎯 O que vamos fazer?
+#🎯 O que vamos fazer?
 
 Criar uma API, usando Node.js no backend e PostgreSQL como banco de dados que será gerenciado pelo PgAdmin 4 e usar o Prisma como nosso ORM.
 
 
-🧰 Tecnologias que vamos usar:
+#🧰 Tecnologias que vamos usar:
 
 🟢 Node.js → Para rodar JavaScript no servidor.
 
@@ -25,7 +25,7 @@ Criar uma API, usando Node.js no backend e PostgreSQL como banco de dados que se
 🧪 Jest → Para garantir que tudo está funcionando com testes.
 
 
-📂 Estrutura básica do projeto:
+#📂 Estrutura básica do projeto:
 
 bash
 Copiar
@@ -47,7 +47,7 @@ project-root/
 └── package.json  
 
 
-✅ Códigos de resposta da API (status HTTP):
+#✅ Códigos de resposta da API (status HTTP):
 
 Código	Nome	O que significa?
 
@@ -59,7 +59,7 @@ Código	Nome	O que significa?
 404	Not Found	O que você pediu não existe 😢
 
 
-🏃‍♂️ Como rodar o projeto:
+#🏃‍♂️ Como rodar o projeto:
 
 Instale as dependências:
 
@@ -76,7 +76,7 @@ Editar
 npm run dev
 
 
-🐘 Configurando o PostgreSQL com Prisma
+#🐘 Configurando o PostgreSQL com Prisma
 
 👉 Instalação do Prisma:
 
